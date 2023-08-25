@@ -1,7 +1,7 @@
 ---
 title: "Tidyverse y Ggplot"
-author: "Juan Barriola y Sofía Perini ^[Basado en la [clase](https://diegokoz.github.io/EEA2019/clase%202/Clase%202-%20Tidyverse.nb.html) de Juan Barriola y Diego Kozlowski]"
-date: "04 de septiembre de 2021"
+author: "Juan Barriola, Fernando González y Franco Mastelli ^[Basado en la [clase](https://diegokoz.github.io/EEA2019/clase%202/Clase%202-%20Tidyverse.nb.html) de Juan Barriola y Diego Kozlowski]"
+date: "26 de agosto de 2023"
 output: 
   html_notebook:
     df_print: paged
